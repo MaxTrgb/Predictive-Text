@@ -1,0 +1,12 @@
+{
+  "h": [ "hello" ],
+  "he": [ "hello" ],
+  "hel": [ "hello" ],
+  "hell": [ "hello" ],
+  "hello": [ "hello" ],
+  "w": [ "world" ],
+  "wo": [ "world" ],
+  "wor": [ "world" ],
+  "worl": [ "world" ],
+  "world": [ "world" ]
+}
